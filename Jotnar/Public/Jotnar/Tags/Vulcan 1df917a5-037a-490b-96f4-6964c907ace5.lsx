@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="4" build="58" lslib_meta="v1,bswap_guids" />
+	<region id="Tags">
+		<node id="Tags">
+			<attribute id="Description" type="LSString" value="|CUSTOM SUBRACE|" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="hbb8a5ad9g8dbdg4d75gbfa9g13b2bb0dccce" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="hf2afc570g9a74g4a2dg8be7g5fa4e0f2878b" version="1" />
+			<attribute id="Icon" type="FixedString" value="" />
+			<attribute id="Name" type="FixedString" value="Vulcan" />
+			<attribute id="UUID" type="guid" value="1df917a5-037a-490b-96f4-6964c907ace5" />
+			<children>
+				<node id="Categories">
+					<children>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Code" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Dialog" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Race" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="PlayerRace" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="CharacterSheet" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

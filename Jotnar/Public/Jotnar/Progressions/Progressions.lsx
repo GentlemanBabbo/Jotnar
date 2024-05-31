@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="Progressions">
+    <node id="root">                 
+      <children>
+        <node id="Progression">
+                  <attribute id="Level" type="uint8" value="1" /> which level the progression is for
+                  <attribute id="Name" type="LSString" value="Jotnar" /> just an internal name
+                  <attribute id="Boosts" type="LSString" value="" /> 
+                  <attribute id="PassivesAdded" type="LSString" value="Jotnar_Base_Passives;Passive_ImposingPresence" /> passives from stats folder here
+                  <attribute id="Selectors" type="LSString" value="AddSpells(f72a603b-f7c0-485f-be8e-cc6c0daa9526,,,,AlwaysPrepared);SelectSkills(9925f1f5-3fb1-4d38-882f-8499d0d415ac,2)" />see below for explanation
+                  <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
+                  <attribute id="TableUUID" type="guid" value="d92f6cde-b8d7-45fd-96e4-cbd3be0c6be2" /> Always use this one for races.lsx, says this progression node is for Main Race
+                  <attribute id="UUID" type="guid" value="bfd4307b-ee6c-4b76-beac-8679e805dfbf" />  this one must be unique
+          </node>
+        <node id="Progression">
+                  <attribute id="Level" type="uint8" value="3" /> which level the progression is for
+                  <attribute id="Name" type="LSString" value="Jotnar" /> just an internal name
+                  <attribute id="Boosts" type="LSString" value="" /> 
+                  <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
+                  <attribute id="Selectors" type="LSString" value="AddSpells(6b51a51c-c3ef-4bd8-b2b7-9f887dcb825f,,,,AlwaysPrepared)" /> this is a single spell being added
+                  <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
+                  <attribute id="TableUUID" type="guid" value="d92f6cde-b8d7-45fd-96e4-cbd3be0c6be2" /> Always use this one for races.lsx, says this progression node is for Main Race
+                  <attribute id="UUID" type="guid" value="69b6a9dd-af0e-4601-9dd5-1e439f6d3bf5" />  this one must be unique
+          </node>
+        <node id="Progression">
+                  <attribute id="Level" type="uint8" value="5" /> which level the progression is for
+                  <attribute id="Name" type="LSString" value="Jotnar" /> just an internal name
+                  <attribute id="Boosts" type="LSString" value="" /> 
+                  <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
+                  <attribute id="Selectors" type="LSString" value="AddSpells(abca1a43-d741-4cff-9a65-2db525463886,,,,AlwaysPrepared)" /> this is a single spell being added
+                  <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
+                  <attribute id="TableUUID" type="guid" value="d92f6cde-b8d7-45fd-96e4-cbd3be0c6be2" /> Always use this one for races.lsx, says this progression node is for Main Race
+                  <attribute id="UUID" type="guid" value="2792997a-8ff6-4003-a820-d1eeddbc8735" />  this one must be unique
+          </node>
+        <node id="Progression">
+                  <attribute id="Level" type="uint8" value="1" /> which level the progression is for
+                  <attribute id="Name" type="LSString" value="Vulcan" /> just an internal name
+                  <attribute id="Boosts" type="LSString" value="" /> 
+                  <attribute id="PassivesAdded" type="LSString" value="RelentlessEnduranceBabbo" /> passives from stats folder here
+                  <attribute id="Selectors" type="LSString" value="" /> you can add spells here
+                  <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
+                  <attribute id="TableUUID" type="guid" value="3391a61c-0d56-4d18-a3af-0a352b385031" /> Always use this one for races.lsx, says this progression node is for Sub Race
+                  <attribute id="UUID" type="guid" value="9456ab8c-36fb-4665-9efd-e9860445df65" />  this one must be unique
+          </node>
+      </children>
+    </node>
+  </region>
+</save>

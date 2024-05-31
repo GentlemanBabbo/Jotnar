@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="3" revision="0" build="300"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>               
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Horn Strike"/> 
+                    <attribute id="Spells" type="LSString" value="Target_HornStrike"/> the spells within the selector
+                    <attribute id="UUID" type="guid" value="f72a603b-f7c0-485f-be8e-cc6c0daa9526"/> the UUID, needs to be unique
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Charge"/> 
+                    <attribute id="Spells" type="LSString" value="Rush_Charge_JotnarBabbo"/> the spells within the selector
+                    <attribute id="UUID" type="guid" value="6b51a51c-c3ef-4bd8-b2b7-9f887dcb825f"/> the UUID, needs to be unique
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Rage"/> 
+                    <attribute id="Spells" type="LSString" value="Shout_Reckless_JotnarBabbo"/> the spells within the selector
+                    <attribute id="UUID" type="guid" value="abca1a43-d741-4cff-9a65-2db525463886"/> the UUID, needs to be unique
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

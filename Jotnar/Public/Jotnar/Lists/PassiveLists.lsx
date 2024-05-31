@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="307"/>
+    <region id="PassiveLists">
+        <node id="root">
+            <children>
+                <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value="Passive_ImposingPresence,RelentlessEnduranceBabbo"/> the passive list
+                    <attribute id="UUID" type="guid" value="2a0620aa-4b12-4278-b87e-f14412a7bd60"/> the UUID, needs to be unique
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
