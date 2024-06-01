@@ -2405,7 +2405,7 @@
 					<attribute id="Name" type="LSString" value="Jotnar_M_Head_A" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
-					<attribute id="SkeletonResource" type="FixedString" value="04f0efa6-a9d7-e82d-fe39-8c7652861d1c" />
+					<attribute id="SkeletonResource" type="FixedString" value="8888119a-9fa2-33b8-1929-306611435be2" />
 					<attribute id="SkeletonSlot" type="FixedString" value="1" />
 					<attribute id="Slot" type="FixedString" value="Head" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
