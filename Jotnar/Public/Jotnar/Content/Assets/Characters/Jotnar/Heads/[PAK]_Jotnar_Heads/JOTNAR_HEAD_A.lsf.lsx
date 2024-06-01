@@ -2402,16 +2402,16 @@
 					<attribute id="HairType" type="uint8" value="0" />
 					<attribute id="ID" type="FixedString" value="d7bdf390-e364-4e31-976f-55fd5b3f98db" />
 					<attribute id="MaterialType" type="uint8" value="0" />
-					<attribute id="Name" type="LSString" value="Jotnar_Head_A" />
+					<attribute id="Name" type="LSString" value="Jotnar_M_Head_A" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
 					<attribute id="SkeletonResource" type="FixedString" value="04f0efa6-a9d7-e82d-fe39-8c7652861d1c" />
 					<attribute id="SkeletonSlot" type="FixedString" value="1" />
 					<attribute id="Slot" type="FixedString" value="Head" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Jotnar/[PAK]_Jotnar_Head/Jotnar_Head/Jotnar_Head_A.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Jotnar/[PAK]_Jotnar_Head/Jotnar_Head/Jotnar_M_Head_A.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Jotnar/[PAK]_Jotnar_Head/Jotnar_Head/Jotnar_Head_A.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Jotnar/[PAK]_Jotnar_Head/Jotnar_Head/Jotnar_M_Head_A.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725665" />
 					<children>
 						<node id="AnimationSetOverrides">
@@ -2432,37 +2432,37 @@
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="b77899c1-799b-491d-b626-94e5fb7e21ff" />
-							<attribute id="ObjectID" type="FixedString" value="Jotnar_Head_A.1TIF_M_NKD_Head_F_Mesh.0" />
+							<attribute id="ObjectID" type="FixedString" value="Jotnar_M_Head_A.1TIF_M_NKD_Head_F_Mesh.0" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="f3283bba-6025-dd5e-7a68-36fa639db970" />
-							<attribute id="ObjectID" type="FixedString" value="Jotnar_Head_A.2TIF_MS_NKD_Head_F_Remap_Mouth_Interior_Fangs_Mesh.1" />
+							<attribute id="ObjectID" type="FixedString" value="Jotnar_M_Head_A.2TIF_MS_NKD_Head_F_Remap_Mouth_Interior_Fangs_Mesh.1" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="f26a7604-c2ff-cc1a-403f-98ff0719aeda" />
-							<attribute id="ObjectID" type="FixedString" value="Jotnar_Head_A.3TIF_MS_NKD_Head_F_Remap_Eyes_Mesh.2" />
+							<attribute id="ObjectID" type="FixedString" value="Jotnar_M_Head_A.3TIF_MS_NKD_Head_F_Remap_Eyes_Mesh.2" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="e398d133-ab4c-4ee9-8a2d-b5a58f917c83" />
-							<attribute id="ObjectID" type="FixedString" value="Jotnar_Head_A.4Fur.3" />
+							<attribute id="ObjectID" type="FixedString" value="Jotnar_M_Head_A.4Fur.3" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="873e5acb-1bc5-28df-7fc9-c9e25cf8bb84" />
-							<attribute id="ObjectID" type="FixedString" value="Jotnar_Head_A.5TIF_MS_NKD_Head_F_Remap_Tearline_Mesh.4" />
+							<attribute id="ObjectID" type="FixedString" value="Jotnar_M_Head_A.5TIF_MS_NKD_Head_F_Remap_Tearline_Mesh.4" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
-							<attribute id="ObjectID" type="FixedString" value="Jotnar_Head_A.6TIF_MS_NKD_Head_F_Remap_Eyelashes_Mesh.5" />
+							<attribute id="ObjectID" type="FixedString" value="Jotnar_M_Head_A.6TIF_MS_NKD_Head_F_Remap_Eyelashes_Mesh.5" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
-							<attribute id="ObjectID" type="FixedString" value="Jotnar_Head_A.7TIF_MS_NKD_Head_F_Remap_Eyeshadow_Mesh.6" />
+							<attribute id="ObjectID" type="FixedString" value="Jotnar_M_Head_A.7TIF_MS_NKD_Head_F_Remap_Eyeshadow_Mesh.6" />
 						</node>
 					</children>
 				</node>
