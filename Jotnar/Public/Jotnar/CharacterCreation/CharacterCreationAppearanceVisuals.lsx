@@ -558,7 +558,7 @@
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle=" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="" version="1"/>
                     <attribute id="RaceUUID" type="guid" value="10ef372f-7ca7-4275-944e-ccedad06719d"/>
                     <attribute id="SlotName" type="FixedString" value="Tail"/>
                     <attribute id="UUID" type="guid" value="c81059a8-38d3-4be5-8d26-25713feef303"/>
