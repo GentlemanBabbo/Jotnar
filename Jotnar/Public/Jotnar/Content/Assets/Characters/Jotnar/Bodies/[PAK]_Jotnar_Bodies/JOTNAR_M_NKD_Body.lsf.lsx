@@ -729,6 +729,8 @@
 							<attribute id="ParameterName" type="FixedString" value="Blood_Color" />
 							<attribute id="Value" type="fvec3" value="0.1303523 0.007751027 0.004116177" />
 						</node>
+					</children>
+				</node>
 				<node id="Resource"> 
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" /> 
 					<attribute id="ID" type="FixedString" value="94ea6ca2-b9c8-4c60-9ea6-958c376b704b" /> Generate new UUID
