@@ -554,6 +554,17 @@
                     <attribute id="VisualResource" type="guid" value="4171ad88-ea16-d9b4-83d2-b25fe055a79e"/>
                 </node>
 
+	<!--Tails-->
+               <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="" version="1"/>
+                    <attribute id="RaceUUID" type="guid" value="10ef372f-7ca7-4275-944e-ccedad06719d"/>
+                    <attribute id="SlotName" type="FixedString" value="Tail"/>
+                    <attribute id="UUID" type="guid" value="c81059a8-38d3-4be5-8d26-25713feef303"/>
+                    <attribute id="VisualResource" type="guid" value="c18459c5-ab60-43a5-a5d6-01be5dbb04b5"/>
+                </node>
+
         <!--Fake Genitals-->
                 <node id="CharacterCreationAppearanceVisual"> MS
                     <attribute id="BodyShape" type="uint8" value="0"/>
