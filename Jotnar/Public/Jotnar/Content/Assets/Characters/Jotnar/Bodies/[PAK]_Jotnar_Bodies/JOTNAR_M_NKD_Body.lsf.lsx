@@ -572,7 +572,7 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
-							<attribute id="ID" type="FixedString" value="eb83cfd0-03fe-4a09-979d-e2fdcac4e599" />
+							<attribute id="ID" type="FixedString" value="b5163c28-db22-4f29-b8b7-91abbecf00f3" />
 							<attribute id="ParameterName" type="FixedString" value="Glowmap" />
 						</node>
 						<node id="Texture2DParameters">
@@ -846,6 +846,19 @@
 	<region id="TextureBank">
 		<node id="TextureBank">
 			<children>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="4096" />
+					<attribute id="ID" type="FixedString" value="b5163c28-db22-4f29-b8b7-91abbecf00f3" />
+					<attribute id="Name" type="LSString" value="JotnarBody_GM" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Jotnar/[PAK]_Jotnar_Body/Jotnar_Body/JotnarBody_GM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="JotnarBody_GM" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="4096" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
+				</node>
 				<node id="Resource">
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="4096" />
