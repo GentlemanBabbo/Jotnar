@@ -46,7 +46,17 @@
 					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
 				</node>
 
+		<!--Wings-->
 
+				 <node id="CharacterCreationAppearanceVisual">
+		                    <attribute id="BodyShape" type="uint8" value="0"/>
+		                    <attribute id="BodyType" type="uint8" value="1"/>
+		                    <attribute id="DisplayName" type="TranslatedString" handle="" version="1"/>
+		                    			<attribute id="RaceUUID" type="guid" value="10ef372f-7ca7-4275-944e-ccedad06719d"/>
+		                    <attribute id="SlotName" type="FixedString" value="Wings"/>
+		                    <attribute id="UUID" type="guid" value="418d3ce6-4612-47c9-a76b-3f3857e7058d"/>
+		                    <attribute id="VisualResource" type="guid" value="381f2172-a8d3-4831-81b6-9fb23cc04b22"/>
+                </node>
 
 		<!--Horns-->
 				<node id="CharacterCreationAppearanceVisual">
