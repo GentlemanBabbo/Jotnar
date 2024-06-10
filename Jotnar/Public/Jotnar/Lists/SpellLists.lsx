@@ -5,8 +5,8 @@
         <node id="root">
             <children>               
                 <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="Horn Strike"/> 
-                    <attribute id="Spells" type="LSString" value="Target_HornStrike"/> the spells within the selector
+                    <attribute id="Comment" type="LSString" value="Horn Strike and fly"/> 
+                    <attribute id="Spells" type="LSString" value="Target_HornStrike;Projectile_Fly"/> the spells within the selector
                     <attribute id="UUID" type="guid" value="f72a603b-f7c0-485f-be8e-cc6c0daa9526"/> the UUID, needs to be unique
                 </node>
                 <node id="SpellList">
