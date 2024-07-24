@@ -2022,7 +2022,7 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="c9ed1c60-fd63-7589-1aca-d8646721b531" />
+							<attribute id="MaterialID" type="FixedString" value="042777fa-284a-4795-b489-638e0ca7b012" />
 							<attribute id="ObjectID" type="FixedString" value="Jotnar_M_Head_A.4JOTNAR_M_NKD_Head_A_Ears_Mesh.3" />
 						</node>
 						<node id="Objects">
