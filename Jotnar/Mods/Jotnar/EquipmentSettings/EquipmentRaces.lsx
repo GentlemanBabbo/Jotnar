@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="1" minor="0" revision="0" build="0" lslib_meta="v1,bswap_guids" />
+	<region id="EquipmentRaces">
+		<node id="root">
+			<children>
+				<node id="EquipmentRace">
+					<attribute id="Name" type="FixedString" value="Jotnar Strong Female" />
+					<attribute id="Guid" type="guid" value="2be354d5-7faa-429c-989c-2b492fbe4481" />
+					<attribute id="DefaultParent" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" />
+					<attribute id="CharacterVisual" type="guid" value="77be99d9-82f4-4671-956d-af0c71739472" />
+				</node>
+				<node id="EquipmentRace">
+					<attribute id="Name" type="FixedString" value="Jotnar Strong Male" />
+					<attribute id="Guid" type="guid" value="45a28c2a-8bd7-4706-932d-dbc00a4e5319" />
+					<attribute id="DefaultParent" type="guid" value="e39505f7-f576-4e70-a99e-8e29cd381a11" />
+					<attribute id="CharacterVisual" type="guid" value="867083fb-71f0-4a28-b11c-cbd852c39054" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

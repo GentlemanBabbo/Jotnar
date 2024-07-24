@@ -52,7 +52,7 @@
 					<attribute id="ParentTemplateId" type="FixedString" value="e8538391-d071-4b40-b43b-60774cc9bb1a" />
 					<attribute id="Flag" type="int32" value="0" />
 					<attribute id="Icon" type="FixedString" value="d67bd924-3c1f-c33a-5298-feca5bbdc284-_(Icon_Elf_Female)" />
-					<attribute id="EquipmentRace" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" /> stronk armour set
+					<attribute id="EquipmentRace" type="guid" value="2be354d5-7faa-429c-989c-2b492fbe4481" /> stronk armour set
 					<attribute id="Stats" type="FixedString" value="HeroElfFemale" /> dont change
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> dont change
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="77be99d9-82f4-4671-956d-af0c71739472" /> which models to load
@@ -91,7 +91,7 @@
 					<attribute id="ParentTemplateId" type="FixedString" value="d19b85b2-9544-439a-a727-bd2d57284cd5" />
 					<attribute id="Flag" type="int32" value="0" />
 					<attribute id="Icon" type="FixedString" value="f0c009b2-7868-784e-f2fc-dde5ac934aba-_(Icon_Elf_Male)" />
-					<attribute id="EquipmentRace" type="guid" value="e39505f7-f576-4e70-a99e-8e29cd381a11" />
+					<attribute id="EquipmentRace" type="guid" value="45a28c2a-8bd7-4706-932d-dbc00a4e5319" />
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> dont change
 					<attribute id="Stats" type="FixedString" value="Playable_M_Jotnar" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="867083fb-71f0-4a28-b11c-cbd852c39054" /> which models to load

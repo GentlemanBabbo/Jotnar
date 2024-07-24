@@ -1,0 +1,11 @@
+{
+  "FileVersion": 1,
+  "Tags": [
+    {
+      "Type": "Race",
+      "Tag": "JOTNAR_83e8fc76-c647-46a5-ae48-a21395c770c0",
+      "ReallyTag": "ReallyJotnar_98bf1e0c-2fcc-4e79-896f-b99864af27f2",
+      "TagsToExclude": ["BALDURIAN_f15e9b0d-676c-4f52-9abf-365cff89ef0f"]
+    }
+  ]
+}
