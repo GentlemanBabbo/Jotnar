@@ -1651,7 +1651,7 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="e398d133-ab4c-4ee9-8a2d-b5a58f917c83" />
+							<attribute id="MaterialID" type="FixedString" value="c9ed1c60-fd63-7589-1aca-d8646721b531" />
 							<attribute id="ObjectID" type="FixedString" value="Jotnar_M_Head_B.4Fur.3" />
 						</node>
 						<node id="Objects">

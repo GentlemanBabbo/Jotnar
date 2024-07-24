@@ -2131,9 +2131,9 @@
 					<attribute id="SkeletonSlot" type="FixedString" value="" />
 					<attribute id="Slot" type="FixedString" value="NakedBody" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="e80f5bba-dae0-fdea-1874-ba11c52906c3" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Jotnar/[PAK]_Jotnar_Body/Jotnar_Body/Jotnar_M_NKD_Body_A.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Jotnar/[PAK]_Jotnar_Body/Jotnar_Body/JOTNAR_M_NKD_Body_A.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Jotnar/[PAK]_Jotnar_Body/Jotnar_Body/Jotnar_M_NKD_Body_A.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Jotnar/[PAK]_Jotnar_Body/Jotnar_Body/JOTNAR_M_NKD_Body_A.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
 					<children>
 						<node id="AnimationWaterfall">
